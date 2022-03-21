@@ -1,6 +1,6 @@
 {
   "name": "@orderbee/vue3-carousel",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -cw & npm run docs:dev",
